@@ -1,0 +1,6 @@
+@mixin with-red-container {
+  background-color: red;
+  margin: 30px;
+  border: 2px solid green;
+  text-align: center;
+}

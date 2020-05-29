@@ -1,0 +1,6 @@
+@import 'shared-styles';
+
+.component-with-sass {
+  @include with-red-container;
+  color: yellow;
+}

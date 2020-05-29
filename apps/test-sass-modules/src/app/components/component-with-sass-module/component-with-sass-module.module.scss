@@ -1,0 +1,6 @@
+@import 'shared-styles';
+
+.main {
+  @include with-red-container;
+  color: blue;
+}
